@@ -6,4 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leothomasv&layout=demo)](https://github.com/Leothomasv/github-readme-stats&theme=gruvbox)
 
-https://github-readme-stats.Leothomasv.vercel.app/api/top-langs/?username=Leothomasv&amp;layout=compact&amp;theme=material-palenight
